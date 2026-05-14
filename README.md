@@ -15,3 +15,6 @@ A modern, responsive weather application that provides real-time weather updates
 * **CSS3:** Advanced styling, animations, and glassmorphism.
 * **JavaScript (ES6+):** Asynchronous API handling (Fetch API) and DOM manipulation.
 * **API:** [OpenWeatherMap API](https://openweathermap.org/)
+
+##📸 Screenshot
+<img width="1366" height="768" alt="Preview" src="https://github.com/user-attachments/assets/ef6a60a3-3cf6-4014-831e-d15f7fec7bb6" />
